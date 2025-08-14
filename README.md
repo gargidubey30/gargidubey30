@@ -38,7 +38,7 @@ Currently, I’m expanding my expertise in **React.js, ShadCN UI, and full-stack
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargidubey30&show_icons=true&theme=default" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=gargidubey30&show_icons=true&theme=default" height="150" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargidubey30&layout=compact&theme=default" height="150" />
 </p>
 <p align="center">
